@@ -1,0 +1,6 @@
+name: ServerBlocks
+version: 0.4.0
+main: dev.serverblocks.ServerBlocksPlugin
+api-version: '26.3'
+description: Shared custom-block rendering, collision and persistence API.
+authors: [rbroderi]
